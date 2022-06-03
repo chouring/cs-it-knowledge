@@ -4,4 +4,4 @@
 ## 用途
 学习、记录和复习计算机基础知识。
 ## 目录
-wait...
+[C++](https://github.com/robotkkk/cs-basic-knowledge/tree/main/cpp)
