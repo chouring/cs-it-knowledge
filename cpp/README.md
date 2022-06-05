@@ -29,7 +29,7 @@ STL由六大部分组成：
 具体的实现，可以学习侯捷的《STL源码剖析》（SGI版本）和STL的一些复现。
 
 ## 智能指针
-
+auto_ptr、unique_ptr、shared_ptr 和 weak_ptr 其中auto_ptr在C++11中被摒弃
 
 
 
