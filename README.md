@@ -6,4 +6,5 @@
 ## 目录
 [C++](https://github.com/robotkkk/cs-basic-knowledge/tree/main/cpp)<br>
 [操作系统](https://github.com/robotkkk/cs-basic-knowledge/tree/main/os)<br>
-[数据库](https://github.com/robotkkk/cs-basic-knowledge/tree/main/db)
+[计算机网络](https://github.com/robotkkk/cs-basic-knowledge/tree/main/net)<br>
+[数据库](https://github.com/robotkkk/cs-basic-knowledge/tree/main/db)<br>
