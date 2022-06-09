@@ -10,4 +10,4 @@
 [计算机网络](https://github.com/robotkkk/cs-basic-knowledge/tree/main/net)<br>
 [数据库](https://github.com/robotkkk/cs-basic-knowledge/tree/main/db)<br>
 
-### 软件技术
+### IT软件技术
