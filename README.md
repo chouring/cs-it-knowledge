@@ -11,3 +11,4 @@
 [数据库](https://github.com/robotkkk/cs-basic-knowledge/tree/main/db)<br>
 
 ### IT软件技术
+[Linux网络编程](https://github.com/key-gamer/cs-it-knowledge/tree/main/linux-net-code)<br>
