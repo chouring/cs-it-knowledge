@@ -1,12 +1,13 @@
 # 计算机网络
 已完成：
 - Socket编程
-- HTTP相关
+- HTTP
+- TCP和UDP
 
 ## Socket编程
 ### 基本步骤
 示意图<br>
-![图片](https://user-images.githubusercontent.com/75822806/173011739-c8f31dba-e6dd-4ff2-b856-3eb12b835845.png)
+![图片](https://user-images.githubusercontent.com/75822806/173017566-6b1cc5b5-240f-4266-8e20-7e2cab59dd65.png)
 
 ```cpp
 int sockfd = socket(); // 返回一个socket, 本质是文件描述符
@@ -38,6 +39,25 @@ clientfd = accept(sockfd, );
 再追问：那如果在一个IM业务中要记录客户端怎么处理？
 答：server维护一张映射表：以sockfd为下标存储用户id的数组
 */
+
+write() 和 send(fd, buffer, len, 0)
+/*
+问：write和send的数据对方一定能收到吗？
+答：不一定，write和send是将buffer中的数据copy到协议栈中。
+问：分包和粘包问题？
+答：解决方法1.采用分隔符，方法2.添加长度元数据
+*/
 ```
 
-## HTTP相关  
+## HTTP
+
+## TCP和UDP
+### TCP和UDP的对比
+TCP：流式套接字，
+UDP：数据包格式，实时性较强，主要用在游戏、直播、下载等场景<br>
+那为什么UDP实时性较强？ 因为TCP有延迟确认机制，而UDP没有<br>
+TCP的流怎么理解？ 在应用层send和recv符合：先发的先到 且 数据不丢失
+
+
+
+
