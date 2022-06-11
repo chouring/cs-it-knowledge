@@ -6,6 +6,8 @@
 ## 目录
 ### CS通用理论基础
 [C++](https://github.com/robotkkk/cs-basic-knowledge/tree/main/cpp)<br>
+[数据结构和算法](https://github.com/key-gamer/cs-it-knowledge/tree/main/algorithm)<br>
+[设计模式](https://github.com/key-gamer/cs-it-knowledge/tree/main/design-pattern)<br>
 [操作系统](https://github.com/robotkkk/cs-basic-knowledge/tree/main/os)<br>
 [Linux内核](https://github.com/key-gamer/cs-it-knowledge/tree/main/linux-kernel)<br>
 [计算机网络](https://github.com/robotkkk/cs-basic-knowledge/tree/main/net)<br>
@@ -14,3 +16,6 @@
 
 ### IT技术
 [Linux网络编程](https://github.com/key-gamer/cs-it-knowledge/tree/main/linux-net-code)<br>
+
+### 方法论
+[调试之道](https://github.com/key-gamer/cs-it-knowledge/tree/main/debug)<br>
