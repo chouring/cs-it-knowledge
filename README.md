@@ -38,4 +38,5 @@
 
 
 ### 方法论
+[对编程语言的思考](https://github.com/key-gamer/cs-it-knowledge/tree/main/languages)<br>
 [调试之道](https://github.com/key-gamer/cs-it-knowledge/tree/main/debug)<br>
