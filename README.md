@@ -1,4 +1,5 @@
 # cs-it-knowledge
+    本仓库仅是理论部分，代码相关内容会外链到本人的其他仓库
 ## 内容
 计算机基础（系统、网络、存储等等）、互联网常面/常用基础知识的系统性总结梳理。
 ## 用途
@@ -16,6 +17,25 @@
 
 ### IT技术
 [Linux网络编程](https://github.com/key-gamer/cs-it-knowledge/tree/main/linux-net-code)<br>
+
+### 基础组件
+[池式组件（包含线程池，内存池等等）](https://github.com/key-gamer/cs-it-knowledge/tree/main/pools)<br>
+[进程通信组件](https://github.com/key-gamer/cs-it-knowledge/tree/main/ipc)<br>
+[原子操作]()<br>
+[日志](https://github.com/key-gamer/cs-it-knowledge/tree/main/log)<br>
+[ring-buffer]()<br>
+[消息队列](https://github.com/key-gamer/cs-it-knowledge/tree/main/mq)<br>
+[定时器](https://github.com/key-gamer/cs-it-knowledge/tree/main/timer)<br>
+
+
+### 中间件
+[Mysql]()<br>
+[Redis]()<br>
+[Nginx]()<br>
+[Memcached]()<br>
+
+### 框架
+
 
 ### 方法论
 [调试之道](https://github.com/key-gamer/cs-it-knowledge/tree/main/debug)<br>
