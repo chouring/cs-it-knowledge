@@ -28,8 +28,8 @@
 
 
 ### 中间件
-[Mysql]()<br>
-[Redis]()<br>
+[Mysql](https://github.com/key-gamer/cs-it-knowledge/tree/main/mysql)<br>
+[Redis](https://github.com/key-gamer/cs-it-knowledge/tree/main/redis)<br>
 [Nginx]()<br>
 [Memcached]()<br>
 
