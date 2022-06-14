@@ -10,10 +10,11 @@
 [数据结构和算法](https://github.com/key-gamer/cs-it-knowledge/tree/main/algorithm)<br>
 [设计模式](https://github.com/key-gamer/cs-it-knowledge/tree/main/design-pattern)<br>
 [操作系统](https://github.com/robotkkk/cs-basic-knowledge/tree/main/os)<br>
-[Linux内核](https://github.com/key-gamer/cs-it-knowledge/tree/main/linux-kernel)<br>
+[多线程编程](https://github.com/chouring/cs-it-knowledge/tree/main/threads)<br>
 [计算机网络](https://github.com/robotkkk/cs-basic-knowledge/tree/main/net)<br>
 [Linux网络编程](https://github.com/key-gamer/cs-it-knowledge/tree/main/linux-net-code)<br>
 [数据库](https://github.com/robotkkk/cs-basic-knowledge/tree/main/db)<br>
+[Linux内核](https://github.com/key-gamer/cs-it-knowledge/tree/main/linux-kernel)<br>
 [分布式系统](https://github.com/key-gamer/cs-it-knowledge/tree/main/distributed-system)<br>
 [云原生](https://github.com/key-gamer/cs-it-knowledge/tree/main/cloud-native)<br>
 
