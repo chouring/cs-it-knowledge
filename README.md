@@ -7,6 +7,9 @@
 ## 目录
 ### CS基础/IT技术
 [C/C++](https://github.com/robotkkk/cs-basic-knowledge/tree/main/cpp)<br>
+[Go](https://github.com/chouring/cs-it-knowledge/tree/main/go)<br>
+[Java](https://github.com/chouring/cs-it-knowledge/tree/main/java)<br>
+[Python](https://github.com/chouring/cs-it-knowledge/tree/main/python)<br>
 [数据结构和算法](https://github.com/key-gamer/cs-it-knowledge/tree/main/algorithm)<br>
 [设计模式](https://github.com/key-gamer/cs-it-knowledge/tree/main/design-pattern)<br>
 [操作系统](https://github.com/robotkkk/cs-basic-knowledge/tree/main/os)<br>
