@@ -22,7 +22,7 @@
 [云原生](https://github.com/key-gamer/cs-it-knowledge/tree/main/cloud-native)<br>
 
 ### 基础组件
-[池式组件（包含线程池，内存池等等）](https://github.com/key-gamer/cs-it-knowledge/tree/main/pools)<br>
+[池化](https://github.com/key-gamer/cs-it-knowledge/tree/main/pools)<br>
 [进程通信组件](https://github.com/key-gamer/cs-it-knowledge/tree/main/ipc)<br>
 [锁](https://github.com/chouring/cs-it-knowledge/tree/main/lock)<br>
 [日志](https://github.com/key-gamer/cs-it-knowledge/tree/main/log)<br>
