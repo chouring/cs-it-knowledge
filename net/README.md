@@ -1,4 +1,8 @@
 # 计算机网络
+    记录计算机网络的一些常见问题，看这些问题之前要熟悉TCP/IP协议栈。
+不熟悉TCP/IP协议栈的朋友可以写一个[用户网络协议栈](https://github.com/chouring/cs-it-knowledge/tree/main/net/tcpip)<br>
+
+---
 已完成：
 - HTTP
 - TCP和UDP
