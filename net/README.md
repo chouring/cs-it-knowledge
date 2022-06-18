@@ -28,7 +28,10 @@ ret = recv(fd, ), ret == 0 和 close(fd) 之间的时间太长，原因往往是
 把这两行代码之间的业务做成异步的，或者抛给另一个线程去做<br>
 close_wait出现在四次挥手的被动方，往往是服务器是被动者<br>
 
-
+### TCP的常见机制
+通过滑动窗口实现flow control，通过拥塞窗口实现congestion control，
+flow是发送与接收的速率匹配，congestion则指的是整个网络的情况。<br>
+在Linux中，congestion control相关算法有Reno, bic, cubic, bbr等, flow control相关算法有nagle，clark算法等等。
 
 
 
