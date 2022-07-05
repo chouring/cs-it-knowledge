@@ -36,7 +36,7 @@
 
 
 ### 基础组件
-[池化](https://github.com/key-gamer/cs-it-knowledge/tree/main/po
+[池化](https://github.com/key-gamer/cs-it-knowledge/tree/main/po)
 
 [进程通信组件](https://github.com/key-gamer/cs-it-knowledge/tree/main/ipc)
 
