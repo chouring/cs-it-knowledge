@@ -33,5 +33,6 @@ close_wait出现在四次挥手的被动方，往往是服务器是被动者<br>
 flow是发送与接收的速率匹配，congestion则指的是整个网络的情况。<br>
 在Linux中，congestion control相关算法有Reno, bic, cubic, bbr等, flow control相关算法有nagle，clark算法等等。
 
+### UDP怎么实现可靠性？
 
 
